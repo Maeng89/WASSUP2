@@ -13,7 +13,7 @@ dataset/
 sample/
 
 # output
-output
+output/
 
 # Distribution / packaging
 .Python
